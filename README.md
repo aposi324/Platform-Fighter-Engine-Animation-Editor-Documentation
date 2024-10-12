@@ -1,1 +1,1 @@
-# Platform-Fighter-Engine-Animation-Editor-Documentation
+# Platform Fighter Engine Animation Editor Documentation
